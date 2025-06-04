@@ -53,7 +53,4 @@ adoptii-animale/
 Proiectul este dezvoltat ca parte a cursului de Dezvoltare Web. Contribuțiile și sugestiile sunt binevenite.
 
 ## Autor
-- Miruna Serban
-
-## Licență
-Acest proiect este licențiat sub [MIT License](LICENSE). 
+- Miruna Serban 
