@@ -1,0 +1,21 @@
+# IDE files
+.idea/
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Configuration files with sensitive data
+php/conectare.php
+
+# Temporary files
+*.log
+*.tmp
+
+# Dependencies
+/vendor/
+
+# Uploaded files
+/uploads/
+/images/uploads/ 

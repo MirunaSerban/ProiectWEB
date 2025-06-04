@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400" height="300" viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+    <!-- Fundal decorativ -->
+    <rect width="400" height="300" fill="#f8f9fa"/>
+    
+    <!-- Câine stilizat -->
+    <g transform="translate(100,100)">
+        <!-- Cap -->
+        <circle cx="100" cy="80" r="40" fill="#3498db"/>
+        <!-- Urechi -->
+        <path d="M70 50 Q60 20 80 40Z" fill="#3498db"/>
+        <path d="M130 50 Q140 20 120 40Z" fill="#3498db"/>
+        <!-- Ochi -->
+        <circle cx="85" cy="75" r="5" fill="white"/>
+        <circle cx="115" cy="75" r="5" fill="white"/>
+        <!-- Bot -->
+        <ellipse cx="100" cy="95" rx="15" ry="10" fill="#2980b9"/>
+        <!-- Limbă -->
+        <path d="M100 100 Q105 110 95 110 Q100 110 100 100Z" fill="#e74c3c"/>
+    </g>
+    
+    <!-- Pisică stilizată -->
+    <g transform="translate(200,150)">
+        <!-- Cap -->
+        <circle cx="100" cy="80" r="35" fill="#2c3e50"/>
+        <!-- Urechi -->
+        <path d="M75 55 L65 35 L85 45Z" fill="#2c3e50"/>
+        <path d="M125 55 L135 35 L115 45Z" fill="#2c3e50"/>
+        <!-- Ochi -->
+        <ellipse cx="85" cy="75" rx="5" ry="8" fill="white"/>
+        <ellipse cx="115" cy="75" rx="5" ry="8" fill="white"/>
+        <!-- Bot -->
+        <path d="M100 85 L95 90 L100 95 L105 90Z" fill="#34495e"/>
+        <!-- Mustăți -->
+        <line x1="75" y1="85" x2="95" y2="88" stroke="#34495e" stroke-width="1"/>
+        <line x1="75" y1="88" x2="95" y2="90" stroke="#34495e" stroke-width="1"/>
+        <line x1="105" y1="88" x2="125" y2="85" stroke="#34495e" stroke-width="1"/>
+        <line x1="105" y1="90" x2="125" y2="88" stroke="#34495e" stroke-width="1"/>
+    </g>
+    
+    <!-- Inimi decorative -->
+    <path d="M50 50 C50 35 65 35 70 50 C75 35 90 35 90 50 C90 65 70 75 70 75 C70 75 50 65 50 50Z" 
+          fill="#e74c3c" opacity="0.6"/>
+    <path d="M300 200 C300 185 315 185 320 200 C325 185 340 185 340 200 C340 215 320 225 320 225 C320 225 300 215 300 200Z" 
+          fill="#e74c3c" opacity="0.6"/>
+</svg> 

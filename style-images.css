@@ -1,0 +1,28 @@
+/* Imagine de fundal pentru secțiunea hero */
+.hero {
+    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), 
+                     url('https://images.unsplash.com/photo-1450778869180-41d0601e046e?ixlib=rb-4.0.1&auto=format&fit=crop&w=1950&q=80');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+/* Stiluri pentru iconițe */
+.feature-icon {
+    width: 64px;
+    height: 64px;
+    margin-bottom: 1.5rem;
+    transition: transform 0.3s ease;
+}
+
+.feature-card:hover .feature-icon {
+    transform: scale(1.1);
+}
+
+/* Imagini responsive în carduri */
+.info-card img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 1rem;
+} 

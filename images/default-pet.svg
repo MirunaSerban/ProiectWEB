@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200" height="200" version="1.1" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+    <rect width="200" height="200" fill="#f5f5f5"/>
+    <g transform="translate(50,50)" fill="#ccc">
+        <!-- Corpul animalului (cerc) -->
+        <circle cx="50" cy="50" r="40"/>
+        <!-- Urechi -->
+        <circle cx="25" cy="20" r="15"/>
+        <circle cx="75" cy="20" r="15"/>
+        <!-- Ochi -->
+        <circle cx="35" cy="45" r="5" fill="#fff"/>
+        <circle cx="65" cy="45" r="5" fill="#fff"/>
+        <!-- Nas -->
+        <circle cx="50" cy="60" r="8"/>
+    </g>
+    <text x="100" y="160" text-anchor="middle" font-family="Arial" font-size="14" fill="#666">
+        Imagine indisponibilă
+    </text>
+</svg> 
