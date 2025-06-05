@@ -185,6 +185,14 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                 </ul>
             </div>
             <div class="footer-section">
+                <h4>Parteneri</h4>
+                <ul>
+                    <li><a href="https://scanstart.ro" target="_blank">ScanStart</a></li>
+                    <li><a href="https://csac.ro" target="_blank">CSAC</a></li>
+                    <li><a href="https://www.instagram.com/cie.engineering_ulbs/?hl=en" target="_blank">CIE Engineering ULBS</a></li>
+                </ul>
+            </div>
+            <div class="footer-section">
                 <h4>Contact</h4>
                 <p>Email: contact@adoptii-animale.ro</p>
                 <p>Telefon: (+40) 123 456 789</p>

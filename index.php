@@ -6,7 +6,7 @@ session_start();
 <html lang="ro">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <title>Adopții Animale</title>
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="style-images.css">
@@ -113,6 +113,14 @@ session_start();
                     <li><a href="despre.php">Despre Noi</a></li>
                     <li><a href="contact.php">Contact</a></li>
                     <li><a href="termeni.php">Termeni și Condiții</a></li>
+                </ul>
+            </div>
+            <div class="footer-section">
+                <h4>Parteneri</h4>
+                <ul>
+                    <li><a href="https://scanstart.ro" target="_blank">ScanStart</a></li>
+                    <li><a href="https://csac.ro" target="_blank">CSAC</a></li>
+                    <li><a href="https://www.instagram.com/cie.engineering_ulbs/?hl=en" target="_blank">CIE Engineering ULBS</a></li>
                 </ul>
             </div>
             <div class="footer-section">
